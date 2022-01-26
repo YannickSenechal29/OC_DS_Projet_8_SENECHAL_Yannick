@@ -1,4 +1,4 @@
-This repository contain all the work done on the project 8 of OpenClassRooms DataScientist training.
+This repository contain all the work done on the project 8 of OpenClassRooms DataScientist training.<br/>
 It provides:
 - Notebook jupyter code done for the preprocessing of the images in spark, both local and in the cloud.
 - Origin sample of images uses on our big data structure in AWS S3
